@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdullatif-kurdi.abdullatif-kurdi">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdullatifAlkurdi.abdullatif-kurdi">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abdullatif+Kurdi....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AbdullatifAlKurdi....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm <strong>Abdullatif Kurdi</strong>, Informatics Engineer from Syria 🇸🇾
+  Hi, I'm <strong>AbdullatifAlKurdi</strong>, Informatics Engineer from Syria 🇸🇾
   <br>
   <br>
   🎓 I graduated from university as a Software Informatics Engineer
@@ -24,7 +24,7 @@
   <br>
   📚 I’m currently learning various topics in computer science and software development
   <br>
-  💬 Ask me anything via <a href="mailto:Abdo.n.k.123713@gmail.com">Abdo.n.k.123713@gmail.com</a>
+  💬 Ask me anything via <a href="mailto:Abdo.n.k.123713@gmail.com">Message Me</a>
 </p>
 
 <hr>
