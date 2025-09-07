@@ -1,48 +1,35 @@
-## مرحباً 👋، أنا عبد اللطيف الكردي  
-<a href='https://www.linkedin.com/in/abdullatifalkordi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>  
-<a href='https://twitter.com/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>  
-<br/><br/>
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
-أنا مبرمج متخصص في لغة C++، أهوى تصميم الأنظمة عالية الأداء وتحليل الخوارزميات. أؤمن بأن البرمجة ليست مجرد كتابة كود، بل هي فن في حل المشكلات وبناء حلول ذكية. أعمل حالياً على مشاريع تعليمية وتقنية تهدف إلى تبسيط المفاهيم المعقدة وجعلها في متناول الجميع، خاصة باللغة العربية.
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+```txt
+TypeScript   10 hrs 49 mins  ████████████████████░░░░░   80.02 %
+Markdown     1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+Python       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Text         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+```
 
----
+<!--END_SECTION:waka-->
 
-### 🧐 نبذة عني:
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-- 🔭 أعمل حالياً على مشروع **محاكي للدوائر المنطقية باستخدام C++**
-- 🤝 أبحث عن التعاون في مشاريع تعليمية مفتوحة المصدر
-- 🌱 أتعلم حالياً تقنيات تحسين الأداء في C++ وكتابة كود نظيف
-- 👨🏻‍💻 معظم مشاريعي متاحة على [GitHub](https://github.com/AbdullatifAlkordi)
-- 💬 اسألني عن أي شيء متعلق بـ C++ أو تصميم الخوارزميات
-- 📫 تواصل معي عبر [LinkedIn](https://www.linkedin.com/in/abdullatifalkordi/)
-- 📚 أحب قراءة الكتب التقنية وتلخيصها باللغة العربية لتسهيل الفهم
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
----
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
-### 🔨 اللغات والأدوات التي أستخدمها:
-<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://cmake.org/" target="_blank"><img align="left" alt="CMake" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cmake/cmake.svg"></a>
-<a href="https://www.qt.io/" target="_blank"><img align="left" alt="Qt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/qt/qt.svg"></a>
-<a href="https://www.vim.org/" target="_blank"><img align="left" alt="Vim" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vim/vim.svg"></a>
 
-<br/><br/>
+📈 my github stats
 
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-### 📊 إحصائيات GitHub
-<a href='https://github.com/AbdullatifAlkordi/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-</a>
 
----
 
-### 🛠️ بعض مشاريعي
-- 🔧 [محاكي الدوائر المنطقية](https://github.com/AbdullatifAlkordi/logic-circuit-simulator)
-- 📘 [ملخصات خوارزميات بالعربية](https://github.com/AbdullatifAlkordi/algorithms-arabic)
-- 🧠 [تطبيق تعليمي لتعليم C++](https://github.com/AbdullatifAlkordi/cpp-tutorial-app)
